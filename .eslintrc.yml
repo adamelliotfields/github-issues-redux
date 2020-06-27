@@ -1,0 +1,6 @@
+extends:
+  - react-app
+  - airbnb
+  - plugin:prettier/recommended
+rules:
+  no-param-reassign: 0
